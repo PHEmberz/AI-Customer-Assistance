@@ -3,6 +3,6 @@
     "version": "1.0.0",
     "description": "AI customer assitance for web",
     "dependencies": {
-        "@aws-sdk/client-bedrock-agent-runtime": "latest"
+        "@aws-sdk/client-bedrock-agent-runtime": "latest",
     }
 }
