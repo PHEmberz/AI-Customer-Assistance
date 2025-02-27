@@ -8,7 +8,7 @@ const {
 const AgentList = [
     {
         // Local server
-        origin: "http://127.0.0.1:5500",
+        origin: "http://127.0.0.1:63342", // Fill in your front web ip:port
         agentId: "",    // Fill in your agent id
         agentAliasId: "",   // Fill in your agent alias id
     }
